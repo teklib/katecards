@@ -1,0 +1,18 @@
+li {
+    list-style-type: none; /* on annule la puce par défaut */
+    background-image: url(image.png); /* on affiche l'image souhaitée */
+    background-repeat: no-repeat; /* on annule la répétition par défaut */
+    background-position: left center; /* on positionne où l'on veut */
+    padding-left: 20px; /* pour éviter la superposition du contenu */
+}
+
+.panel{
+	background-color: #EFEFEF;
+}
+
+.table_jeu{
+	position:  absolute;
+	height:200px;
+
+	
+}
